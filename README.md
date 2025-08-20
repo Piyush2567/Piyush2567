@@ -36,6 +36,8 @@ Currently building my foundation in **Python, SQL, Excel, and Data Visualization
 
 ---
 
+
+
 ### 🗂️ Sample Projects (to be added)
 - 🛒 [Sales Data Insights](#) – cleaned and analyzed retail sales dataset  
 - 🎓 [Student Performance Analysis](#) – trends & factors affecting results  
@@ -55,8 +57,29 @@ I believe **data tells a story**, and I’m learning to be the storyteller 📖�
 ![Excel](https://img.shields.io/badge/Excel-data--cleaning-success)  
 
 ---
+<p align="left">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>  
 
-### 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=tokyonight)  
+  <!-- Data Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>  
+
+  <!-- Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/>  
+
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/ms-excel.png" alt="excel" width="40" height="40"/>  
+</p>  
+
+---
 
