@@ -7,10 +7,6 @@ Currently building my foundation in **Python, SQL, Excel, and Data Visualization
 
 ---
 
-### 📊 Profile Stats  
-![Profile Views](https://komarev.com/ghpvc/?username=<your-username>&color=blue)
-
----
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](<https://www.linkedin.com/in/piyush-shamnani-5190bb380/>)  
