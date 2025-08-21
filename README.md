@@ -13,8 +13,8 @@ Currently building my foundation in **Python, SQL, Excel, and Data Visualization
 ---
 
 ### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](<your-linkedin-link>)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-email>)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](<https://www.linkedin.com/in/piyush-shamnani-5190bb380/>)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<piyushshamnani10@gmail.com>)  
 
 ---
 
