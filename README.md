@@ -32,15 +32,6 @@ Currently building my foundation in **Python, SQL, Excel, and Data Visualization
 
 ---
 
-
-
-### 🗂️ Sample Projects (to be added)
-- 🛒 [Sales Data Insights](#) – cleaned and analyzed retail sales dataset  
-- 🎓 [Student Performance Analysis](#) – trends & factors affecting results  
-- 📈 [COVID-19 Data Exploration](#) – EDA with pandas and matplotlib  
-
----
-
 ### ⚡ Fun Fact  
 I believe **data tells a story**, and I’m learning to be the storyteller 📖✨  
 
